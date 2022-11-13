@@ -10,5 +10,5 @@ To build, run in IntelliJ IDEA and select build->build artifact->JavaMessagePass
 This builds the .jar file in the debug folder of the C# project.
 
 ## MessagePassingTesting.sln
-This is the solution folder for the C# side of the project that sends data to the Java program.\
+This is the solution  for the C# side of the project that sends data to the Java program.\
 To run the test you need to run this solution in debug mode.
