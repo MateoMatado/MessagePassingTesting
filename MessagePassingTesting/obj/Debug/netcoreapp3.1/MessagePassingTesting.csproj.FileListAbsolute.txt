@@ -1,0 +1,14 @@
+C:\FEH\MessagePassingTesting\MessagePassingTesting\bin\Debug\netcoreapp3.1\MessagePassingTesting.exe
+C:\FEH\MessagePassingTesting\MessagePassingTesting\bin\Debug\netcoreapp3.1\MessagePassingTesting.deps.json
+C:\FEH\MessagePassingTesting\MessagePassingTesting\bin\Debug\netcoreapp3.1\MessagePassingTesting.runtimeconfig.json
+C:\FEH\MessagePassingTesting\MessagePassingTesting\bin\Debug\netcoreapp3.1\MessagePassingTesting.runtimeconfig.dev.json
+C:\FEH\MessagePassingTesting\MessagePassingTesting\bin\Debug\netcoreapp3.1\MessagePassingTesting.dll
+C:\FEH\MessagePassingTesting\MessagePassingTesting\bin\Debug\netcoreapp3.1\MessagePassingTesting.pdb
+C:\FEH\MessagePassingTesting\MessagePassingTesting\obj\Debug\netcoreapp3.1\MessagePassingTesting.csproj.AssemblyReference.cache
+C:\FEH\MessagePassingTesting\MessagePassingTesting\obj\Debug\netcoreapp3.1\MessagePassingTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\FEH\MessagePassingTesting\MessagePassingTesting\obj\Debug\netcoreapp3.1\MessagePassingTesting.AssemblyInfoInputs.cache
+C:\FEH\MessagePassingTesting\MessagePassingTesting\obj\Debug\netcoreapp3.1\MessagePassingTesting.AssemblyInfo.cs
+C:\FEH\MessagePassingTesting\MessagePassingTesting\obj\Debug\netcoreapp3.1\MessagePassingTesting.csproj.CoreCompileInputs.cache
+C:\FEH\MessagePassingTesting\MessagePassingTesting\obj\Debug\netcoreapp3.1\MessagePassingTesting.dll
+C:\FEH\MessagePassingTesting\MessagePassingTesting\obj\Debug\netcoreapp3.1\MessagePassingTesting.pdb
+C:\FEH\MessagePassingTesting\MessagePassingTesting\obj\Debug\netcoreapp3.1\MessagePassingTesting.genruntimeconfig.cache
