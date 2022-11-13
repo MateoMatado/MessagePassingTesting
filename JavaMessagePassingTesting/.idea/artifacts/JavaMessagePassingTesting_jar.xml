@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaMessagePassingTesting:jar">
+    <output-path>$PROJECT_DIR$/../MessagePassingTesting/bin/Debug/netcoreapp3.1</output-path>
+    <root id="archive" name="JavaMessagePassingTesting.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../MessagePassingTesting/bin/Debug/netcoreapp3.1/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="JavaMessagePassingTesting" />
+    </root>
+  </artifact>
+</component>
